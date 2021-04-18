@@ -1,2 +1,5 @@
 Django==3.2
 requests==2.24.0
+whitenoise
+gunicorn
+
